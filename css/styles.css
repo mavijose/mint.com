@@ -1,0 +1,149 @@
+body{
+    background: #EBEBEB;
+    font-family: 'open sans', sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+
+
+.btn-orange{
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+ }
+
+ .btn-orange{
+    background-color: orange;
+    color: white;
+ }
+
+ .card-description{
+    font-size: 10px;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+#img img{
+  size: 1800px;
+}
+#profil img{
+    width: 450px;
+    height: 450px;
+ }
+ #pofil img{
+    width: 250px;
+    height: 250px;
+ }
+ #prof img{
+  width: 100px;
+    height: 100px;
+ }
+ .wrapper{
+background-image: url('../image/hero3-2.jpg');
+height: 650px;
+background-size:cover;
+/*padding-top: 0px;*/
+text-align: center;
+letter-spacing: 2px;
+background-position: -290px 0px;
+ }
+ .breakline {
+    display: block;
+  }
+  .hero-subtitle{
+color: #ffffff;
+font-size: : 30px;
+  }
+
+  #wrapper{
+    background-color: #ffffff;
+    font-size: 15px;
+    padding:5.8em;
+  }
+
+  .container-about{
+    font-size: 15px;
+    padding:1.5em;
+
+  }
+  .icn-logo {
+    background-position: 0 -3044px;
+    height: 37px;
+    width: 104px;
+}
+.content{
+position: relative;
+top: 64px;
+color: #000;
+}
+#press a{
+    font-weight: 100;
+    border: 1px solid rgba(255,255,255,0.3);
+    text-transform: capitalize;
+    width: 223px;
+position: relative;
+top: 128px;
+color: #fff;
+font-size: -343px;
+  }
+  #btn a {
+    font-weight: 100;
+    border: 1px solid rgba(255,255,255,0.3);
+    text-transform: capitalize;
+    width: 223px;
+position: relative;
+top: 61px;
+color: #fff;
+font-size: -343px;
+  }
+  .text-center{
+    color:rgb(0,0,0); 
+    font-weight: ;
+  }
+  .hero-subtitle {
+    padding-bottom: 30px;
+width: 590px;
+text-align: center;
+margin: 0 auto;
+padding-right: 15px;
+padding-left: 15px;
+font-size: 20px;
+color: #fff;
+}
+.breakline {
+    display: block;
+  }
+  .hero-title {
+    font-size: 60px;
+}
+.menu{
+    margin-top: 19px;
+text-transform: uppercase;
+font-size: 13px;
+font-weight: 600;
+display: inline-block;
+}
+.menu ul{
+    padding-left: 0;
+}
+
+.field.field-name {
+    position: relative;
+    top: 100px;
+}
+.breeakline {
+    color: #FFF;
+    font-size: 85px;
+}
+#footer a{
+  color: lightgrey;
+}²
+#footer a:hover{
+  color: white;
+}
